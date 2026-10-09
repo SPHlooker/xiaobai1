@@ -1,0 +1,17 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+.vite/
+
+# macOS
+.DS_Store
+._*
+
+# 日志
+*.log
+npm-debug.log*
+
+# 编辑器（.vscode/settings.json 是你主动跟踪的项目配置，不忽略）
+.idea/
